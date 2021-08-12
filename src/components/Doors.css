@@ -1,0 +1,71 @@
+
+h2, h1{
+    padding: 20px 0px;
+    margin: 0px;
+    color: rgb(21, 81, 146);
+}
+h1{
+    margin-top: 15px;
+    
+}
+
+.door{
+    height: 400px;
+    width: 200px;
+    margin: 30px;
+}
+
+.closed{
+    margin: 30px;
+    background-image: url("../images/doors.jpg");
+    background-size: cover;
+    cursor: pointer;
+}
+
+.prize{
+    margin: 0px;
+    background-image: url("../images/car.jpg");
+    background-size: cover;
+}
+
+.goat{
+    margin: 0px;
+    background-image: url("../images/goats.jpg");
+    background-size: cover;
+}
+
+button{
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(38, 140, 191);
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: white;
+    outline: none;
+}
+
+button:hover{
+    background-color: rgb(21, 81, 146);
+    
+}
+
+p{
+    margin: 20px 0px;
+    padding: 0px 20px;
+    width: 720px;
+    color: rgb(0, 0, 0);
+}
+
+/*Styiling for credits*/
+a{
+    text-decoration: none;
+    color:rgb(0, 97, 153);
+}
+a:hover{
+    color:rgb(0, 137, 216);
+}
+span{
+    color: rgb(71, 71, 71);
+}

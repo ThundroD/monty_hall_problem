@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+body{
+  background-color: rgb(238, 202, 177);
+}
+
